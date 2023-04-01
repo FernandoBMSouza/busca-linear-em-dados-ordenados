@@ -1,0 +1,15 @@
+C:\Users\ferna\OneDrive\Documents\Algoritmos\busca-linear-em-dados-ordenados\bin\Debug\net7.0\busca-linear-em-dados-ordenados.exe
+C:\Users\ferna\OneDrive\Documents\Algoritmos\busca-linear-em-dados-ordenados\bin\Debug\net7.0\busca-linear-em-dados-ordenados.deps.json
+C:\Users\ferna\OneDrive\Documents\Algoritmos\busca-linear-em-dados-ordenados\bin\Debug\net7.0\busca-linear-em-dados-ordenados.runtimeconfig.json
+C:\Users\ferna\OneDrive\Documents\Algoritmos\busca-linear-em-dados-ordenados\bin\Debug\net7.0\busca-linear-em-dados-ordenados.dll
+C:\Users\ferna\OneDrive\Documents\Algoritmos\busca-linear-em-dados-ordenados\bin\Debug\net7.0\busca-linear-em-dados-ordenados.pdb
+C:\Users\ferna\OneDrive\Documents\Algoritmos\busca-linear-em-dados-ordenados\obj\Debug\net7.0\busca-linear-em-dados-ordenados.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Documents\Algoritmos\busca-linear-em-dados-ordenados\obj\Debug\net7.0\busca-linear-em-dados-ordenados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Documents\Algoritmos\busca-linear-em-dados-ordenados\obj\Debug\net7.0\busca-linear-em-dados-ordenados.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Documents\Algoritmos\busca-linear-em-dados-ordenados\obj\Debug\net7.0\busca-linear-em-dados-ordenados.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Documents\Algoritmos\busca-linear-em-dados-ordenados\obj\Debug\net7.0\busca-linear-em-dados-ordenados.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documents\Algoritmos\busca-linear-em-dados-ordenados\obj\Debug\net7.0\busca-linear-em-dados-ordenados.dll
+C:\Users\ferna\OneDrive\Documents\Algoritmos\busca-linear-em-dados-ordenados\obj\Debug\net7.0\refint\busca-linear-em-dados-ordenados.dll
+C:\Users\ferna\OneDrive\Documents\Algoritmos\busca-linear-em-dados-ordenados\obj\Debug\net7.0\busca-linear-em-dados-ordenados.pdb
+C:\Users\ferna\OneDrive\Documents\Algoritmos\busca-linear-em-dados-ordenados\obj\Debug\net7.0\busca-linear-em-dados-ordenados.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Documents\Algoritmos\busca-linear-em-dados-ordenados\obj\Debug\net7.0\ref\busca-linear-em-dados-ordenados.dll
